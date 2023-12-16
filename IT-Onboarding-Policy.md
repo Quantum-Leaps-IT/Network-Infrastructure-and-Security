@@ -1,14 +1,14 @@
 ##### Still working........
 ## Table of Contents
-(1.)Introduction
-(2.)Pre-Onboarding Setup
-(3.)First Day Orientation
-(4.)Network and Systems Access
-(5.)Software and Application Training
-(6.)IT Support and Resources
-(7.)Security Compliance and Best Practices
-(8.)Ongoing IT Training and Development
-(9.)Policy Acknowledgement
+(1.)Introduction <br/>
+(2.)Pre-Onboarding Setup <br/>
+(3.)First Day Orientation <br/>
+(4.)Network and Systems Access <br/>
+(5.)Software and Application Training <br/>
+(6.)IT Support and Resources <br/>
+(7.)Security Compliance and Best Practices <br/>
+(8.)Ongoing IT Training and Development <br/>
+(9.)Policy Acknowledgement <br/>
 (10.)Appendix 
 
 1. Introduction
