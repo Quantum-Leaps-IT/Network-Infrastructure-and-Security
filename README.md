@@ -1,7 +1,7 @@
 ## Network Infrastructure and Security
  *Overview of network infrastructure and security measures.*
 
-<u>**Network-Design/Network-Topology.md**</u> - Description and rationale of the network topology.
+<u> **Network-Design/Network-Topology.md** </u> - Description and rationale of the network topology.
 <br/>
 
 <u>**VPN--configuration.md**</u>  Instructions and configurations for VPN setup.
