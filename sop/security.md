@@ -67,7 +67,7 @@ Cybersecurity best practices and guidelines.
 
 Documentation provided by firewall and antivirus solution vendors.
 
-$ Definitions:
+# Definitions:
 
 Firewall: A network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
 Revision History:
