@@ -20,3 +20,6 @@
 - **Christen ReinHart**
 [GitHub](https://github.com/christen-reinhart) |
 [LinkedIn](https://www.linkedin.com/in/christen-reinhart/)
+- **Deqa Huessin**
+[GitHub](https://github.com/DeqaHussein)|
+[LinkedIn](https://www.linkedin.com/in/deqa-hussein-408196144/)
